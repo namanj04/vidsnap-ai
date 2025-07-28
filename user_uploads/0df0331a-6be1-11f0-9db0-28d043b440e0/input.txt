@@ -1,0 +1,16 @@
+file '1.jpg'
+duration 1
+file '3.jpg'
+duration 1
+file '5.jpg'
+duration 1
+file 'anshi.png'
+duration 1
+file '5a1c86ec4fad3739dfe6534317ccacd2.jpg'
+duration 1
+file 'Copy of RM402255~1.jpg'
+duration 1
+file 'Copy of RM402249~1.jpg'
+duration 1
+file 'Copy of RM402247~1.jpg'
+duration 1
